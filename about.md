@@ -1,9 +1,12 @@
 
+---
+layout: page
+title: About
+---
 
-<p class="message">
   I am Rajagopal Sreenivasan, based out of Bengaluru.
   Interests are primarily in Programming, Software, Sanskrit and Carnatic Music.
-</p>
+
 
 - I have spent about 8 years in Software industry tinkering with mostly networking code.
   - Worked on switching, routing, load balancers, wireless gateways.
