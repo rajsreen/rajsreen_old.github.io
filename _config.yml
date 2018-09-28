@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Random Musings
+tagline:          'Random Musings...'
+
+description:      'Personal Blog of Rajagopal Sreenivasan'
+
+#url:              http://hyde.getpoole.com
+baseurl:          /
+
+
+author:
+  name:           'Rajagopal Sreenivasan'
+  url:            https://twitter.com/rajagopal211
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/rajsreen
