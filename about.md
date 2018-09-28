@@ -1,7 +1,4 @@
----
-layout: page
-title: About
----
+
 
 <p class="message">
   I am Rajagopal Sreenivasan, based out of Bengaluru.
